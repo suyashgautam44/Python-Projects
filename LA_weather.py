@@ -1,4 +1,4 @@
-#This assignment focuses on counting types of weather in Los Angeles during an year using Dictionaries
+#This assignment focuses on counting types of weather in Los Angeles during an year using Dictionaries. File attached in comment section
 #We need to know how many days were Sunny, Rain, Fog etc. We make use of dictionaries to achieve this goal
 
 f = open("la_weather.csv")
